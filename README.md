@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="http://rzolfaghari.ir/" target="blank">
 Reza Zolfaghari</a></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Web+Developer;WP+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Web+Developer;WP+Developer;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 
 <a target="_blank" align="center">
