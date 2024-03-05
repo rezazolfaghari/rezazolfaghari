@@ -11,11 +11,9 @@ Reza Zolfaghari</a></h1>
 <br>
 
 
-- 🌱 I’m currently Working on WP-API
+- 🌱 I’m currently Working on javaScript
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning DM and Python 
 
 - 📝 I publish my articles on my site [https://pilearn.ir](https://pilearn.ir)
 
